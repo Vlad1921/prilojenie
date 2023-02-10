@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\prilojenie na diplom\prilojenie na diplom\bin\Debug\prilojenie na diplom.exe.config
+C:\Users\User\source\repos\prilojenie na diplom\prilojenie na diplom\bin\Debug\prilojenie na diplom.exe
+C:\Users\User\source\repos\prilojenie na diplom\prilojenie na diplom\bin\Debug\prilojenie na diplom.pdb
+C:\Users\User\source\repos\prilojenie na diplom\prilojenie na diplom\obj\Debug\prilojenie na diplom.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\prilojenie na diplom\prilojenie na diplom\obj\Debug\prilojenie na diplom.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\prilojenie na diplom\prilojenie na diplom\obj\Debug\prilojenie_na_diplom.Properties.Resources.resources
+C:\Users\User\source\repos\prilojenie na diplom\prilojenie na diplom\obj\Debug\prilojenie na diplom.csproj.GenerateResource.cache
+C:\Users\User\source\repos\prilojenie na diplom\prilojenie na diplom\obj\Debug\prilojenie na diplom.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\prilojenie na diplom\prilojenie na diplom\obj\Debug\prilojenie na diplom.exe
+C:\Users\User\source\repos\prilojenie na diplom\prilojenie na diplom\obj\Debug\prilojenie na diplom.pdb
+C:\Users\User\source\repos\prilojenie na diplom\prilojenie na diplom\obj\Debug\prilojenie_na_diplom.Register.resources
+C:\Users\User\source\repos\prilojenie na diplom\prilojenie na diplom\obj\Debug\prilojenie_na_diplom.Form2.resources
+C:\Users\User\source\repos\prilojenie na diplom\prilojenie na diplom\obj\Debug\prilojenie_na_diplom.autoriz.resources
+C:\Users\User\source\repos\prilojenie na diplom\prilojenie na diplom\obj\Debug\prilojenie_na_diplom.Add.resources
